@@ -1,0 +1,1 @@
+DELETE FROM produkty WHERE id_produktu = 2

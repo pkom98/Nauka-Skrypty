@@ -1,0 +1,1 @@
+INSERT INTO produkty (id_produktu, producent, model, kategoria, cena) VALUES (NULL, 1, 'EP-999', 'lodowka', 1799)

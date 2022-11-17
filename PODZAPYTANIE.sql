@@ -1,0 +1,1 @@
+SELECT id_produktu, model, cena FROM produkty WHERE cena > (SELECT AVG(cena) FROM produkty)

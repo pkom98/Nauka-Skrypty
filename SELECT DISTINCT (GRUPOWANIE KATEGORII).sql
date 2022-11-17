@@ -1,0 +1,1 @@
+SELECT DISTINCT kategoria FROM produkty
